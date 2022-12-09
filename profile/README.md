@@ -7,4 +7,5 @@
 - [开飞机文档](https://we-fly.cd.al)
 - [无人机控制库](https://github.com/We-Fly/communication)
 - [Rpi-status - 用于监控树莓派状态的简单脚本](https://github.com/We-Fly/Rpi-status)
+- [刷卡器固件](https://github.com/We-Fly/card-swiper)
 - ...
